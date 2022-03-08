@@ -152,6 +152,28 @@ button {
         width: 100%;
         margin-top: 150px;
     }
+    .wsbutton{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .wsbutton .account {
+        color: #874fb7;
+        width: 100%;
+        margin: auto;
+        padding: 10px;
+        font-size: 12px;
+    }
+    
+    .wsbutton .demo {
+        background-color: #874fb7;
+        color: white;
+        width: 100%;
+        margin: auto;
+        padding: 10px;
+        font-size: 12px;
+        border-radius: 4px;
+        border: white 1px solid;
+    }
 
     .img {
         width: 100%;
