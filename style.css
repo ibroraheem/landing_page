@@ -94,7 +94,7 @@ button {
     display: flex;
     width: 50%;
     margin-top: 30px;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .wsbutton .account {
