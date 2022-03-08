@@ -92,6 +92,7 @@ button {
 
 .wsbutton {
     display: flex;
+    flex-wrap: wrap;
     width: 50%;
     margin-top: 30px;
     justify-content: space-between;
